@@ -1,0 +1,14 @@
+jupyter
+pandas
+numpy
+matplotlib
+mplfinance
+scipy
+pyqt5
+QScintilla
+yfinance
+ib_async
+ibapi
+requests
+python-telegram-bot
+pillow
